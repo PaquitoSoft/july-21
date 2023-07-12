@@ -13,7 +13,7 @@ type TTracksGridProps = {
 
 function TracksGrid({ tracks, onToggleClick }: TTracksGridProps) {
   return (
-    <div className="grid grid-cols-1 md:lg:xl:grid-cols-3 gap-4 group bg-white shadow-xl shadow-neutral-100 border ">
+    <div className="grid grid-cols-1 md:lg:xl:grid-cols-3 gap-4">
       {
         tracks.map(track => (
           <div
@@ -69,7 +69,7 @@ export default function Home() {
   }
 
   return (
-    <main className="min-h-screen py-8 px-24">
+    <main className="min-h-screen py-4 md:py-8 px-8 md:px-24">
       <TracksGrid tracks={playlist.tracks} onToggleClick={handleToggleTrackClick} />
     </main>
   );
