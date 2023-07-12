@@ -1,0 +1,448 @@
+{
+    "tracks": [
+        {
+            "title": "Padam Padam",
+            "artist": "Kylie Minogue",
+            "length": 166,
+            "isDuplicated": false
+        },
+        {
+            "title": "Reeces Pieces",
+            "artist": "Zero",
+            "length": 259,
+            "isDuplicated": false
+        },
+        {
+            "title": "Heads Will Roll (A-Trak Remix Radio Edit)",
+            "artist": "Yeah Yeah Yeahs",
+            "length": 203,
+            "isDuplicated": false
+        },
+        {
+            "title": "Hot In It",
+            "artist": "Tiësto",
+            "length": 129,
+            "isDuplicated": false
+        },
+        {
+            "title": "Redlight",
+            "artist": "Swedish House Mafia",
+            "length": 242,
+            "isDuplicated": false
+        },
+        {
+            "title": "Meet Her At The Love Parade",
+            "artist": "Steven Cage",
+            "length": 318,
+            "isDuplicated": false
+        },
+        {
+            "title": "Drinkee (Vintage Culture & John Summit Remix)",
+            "artist": "Sofi Tukker",
+            "length": 205,
+            "isDuplicated": false
+        },
+        {
+            "title": "Monkey Beatz",
+            "artist": "SMACK",
+            "length": 203,
+            "isDuplicated": false
+        },
+        {
+            "title": "Ecuador (Klubbheads Dub Mix)",
+            "artist": "Sash!",
+            "length": 257,
+            "isDuplicated": false
+        },
+        {
+            "title": "Jam Inside Your Love (feat. Carla Monroe)",
+            "artist": "Sam Green",
+            "length": 147,
+            "isDuplicated": false
+        },
+        {
+            "title": "Crying On The Dancefloor",
+            "artist": "Sam Feldt",
+            "length": 173,
+            "isDuplicated": false
+        },
+        {
+            "title": "Hey Sexy",
+            "artist": "Roxe",
+            "length": 170,
+            "isDuplicated": false
+        },
+        {
+            "title": "U Ok?",
+            "artist": "PARISI",
+            "length": 154,
+            "isDuplicated": false
+        },
+        {
+            "title": "Vai Sentando (feat. Skrillex, Ludmilla, King Doudou & Duki)",
+            "artist": "LUDMILLA",
+            "length": 134,
+            "isDuplicated": false
+        },
+        {
+            "title": "Work",
+            "artist": "Kevin McKay",
+            "length": 217,
+            "isDuplicated": false
+        },
+        {
+            "title": "My Milkshake (Leftwing : Kody Remix)",
+            "artist": "Kelis",
+            "length": 361,
+            "isDuplicated": false
+        },
+        {
+            "title": "I WARE HOUSE",
+            "artist": "Joyryde",
+            "length": 266,
+            "isDuplicated": false
+        },
+        {
+            "title": "Afraid",
+            "artist": "James Hype",
+            "length": 143,
+            "isDuplicated": false
+        },
+        {
+            "title": "Ferrari",
+            "artist": "James Hype",
+            "length": 186,
+            "isDuplicated": false
+        },
+        {
+            "title": "KLK",
+            "artist": "Hugel",
+            "length": 190,
+            "isDuplicated": false
+        },
+        {
+            "title": "Pa Lante",
+            "artist": "Hugel",
+            "length": 130,
+            "isDuplicated": false
+        },
+        {
+            "title": "Marianela (Que Pasa)",
+            "artist": "Hugel",
+            "length": 145,
+            "isDuplicated": false
+        },
+        {
+            "title": "One By One",
+            "artist": "Gabry Ponte",
+            "length": 145,
+            "isDuplicated": false
+        },
+        {
+            "title": "TAKE IT OFF",
+            "artist": "Fisher",
+            "length": 194,
+            "isDuplicated": false
+        },
+        {
+            "title": "Better (feat. Jena)",
+            "artist": "Ferreck Dawn",
+            "length": 172,
+            "isDuplicated": false
+        },
+        {
+            "title": "Bristol to Brighton (feat. Fatboy Slim)",
+            "artist": "Eats Everything",
+            "length": 151,
+            "isDuplicated": false
+        },
+        {
+            "title": "Would I Lie to You (Radio Edit)",
+            "artist": "David Guetta",
+            "length": 197,
+            "isDuplicated": false
+        },
+        {
+            "title": "I'm Good (Blue) (Extended)",
+            "artist": "David Guetta",
+            "length": 219,
+            "isDuplicated": false
+        },
+        {
+            "title": "Beggin'",
+            "artist": "Chris Lake",
+            "length": 183,
+            "isDuplicated": false
+        },
+        {
+            "title": "Surra de Bunda (Sidney Samson Remix) / That Miami Track [feat. Julian Smith]",
+            "artist": "As Tequileiras do Funk",
+            "length": 300,
+            "isDuplicated": false
+        },
+        {
+            "title": "Do It To It",
+            "artist": "Acraze",
+            "length": 157,
+            "isDuplicated": false
+        },
+        {
+            "title": "Riverside 2099",
+            "artist": "Oliver Heldens; Sidney Samson",
+            "length": 234,
+            "isDuplicated": false
+        },
+        {
+            "title": "Get Get Down",
+            "artist": "Tom & Jame",
+            "length": 149,
+            "isDuplicated": false
+        },
+        {
+            "title": "Skank N Flex",
+            "artist": "Taiki Nulight; Scrufizzer",
+            "length": 200,
+            "isDuplicated": false
+        },
+        {
+            "title": "If You Want (Ibiza Club Mix)",
+            "artist": "Sirius & Nyla",
+            "length": 253,
+            "isDuplicated": false
+        },
+        {
+            "title": "Dance with Me",
+            "artist": "Saint; MDP",
+            "length": 258,
+            "isDuplicated": false
+        },
+        {
+            "title": "Keep your whistle",
+            "artist": "Paul Sirrel",
+            "length": 272,
+            "isDuplicated": false
+        },
+        {
+            "title": "Hooked",
+            "artist": "Notion",
+            "length": 206,
+            "isDuplicated": false
+        },
+        {
+            "title": "BAM BAM",
+            "artist": "Merk & Kremont; Hawk",
+            "length": 155,
+            "isDuplicated": false
+        },
+        {
+            "title": "Sushi",
+            "artist": "Merk & Kremont",
+            "length": 168,
+            "isDuplicated": false
+        },
+        {
+            "title": "Your Love (Original Mix)",
+            "artist": "Mercer",
+            "length": 200,
+            "isDuplicated": false
+        },
+        {
+            "title": "King Of My Castle (Don Diablo Edit)",
+            "artist": "Keanu Silva; Don Diablo",
+            "length": 173,
+            "isDuplicated": false
+        },
+        {
+            "title": "ON FIRE",
+            "artist": "Joyryde",
+            "length": 203,
+            "isDuplicated": false
+        },
+        {
+            "title": "HOT DRUM",
+            "artist": "Joyryde",
+            "length": 266,
+            "isDuplicated": false
+        },
+        {
+            "title": "Hand of God",
+            "artist": "Jaded",
+            "length": 188,
+            "isDuplicated": false
+        },
+        {
+            "title": "Show Me",
+            "artist": "Habstrakt",
+            "length": 174,
+            "isDuplicated": false
+        },
+        {
+            "title": "Losing It",
+            "artist": "Fisher; Gita Lake",
+            "length": 248,
+            "isDuplicated": false
+        },
+        {
+            "title": "High",
+            "artist": "Elías Marinelli",
+            "length": 205,
+            "isDuplicated": false
+        },
+        {
+            "title": "Change The Situation",
+            "artist": "Eli Brown",
+            "length": 210,
+            "isDuplicated": false
+        },
+        {
+            "title": "Made In France",
+            "artist": "DJ Snake; Tchami; Malaa; Mercer",
+            "length": 251,
+            "isDuplicated": false
+        },
+        {
+            "title": "Baila Conmigo",
+            "artist": "Dayvi; Victor Cardenas; Kelly Ruiz",
+            "length": 189,
+            "isDuplicated": false
+        },
+        {
+            "title": "Levels",
+            "artist": "Avicii",
+            "length": 338,
+            "isDuplicated": false
+        },
+        {
+            "title": "303",
+            "artist": "Anna Lunoe",
+            "length": 238,
+            "isDuplicated": false
+        },
+        {
+            "title": "Astronomia",
+            "artist": "Vicetone; Tony Igy",
+            "length": 198,
+            "isDuplicated": false
+        },
+        {
+            "title": "Acordeão",
+            "artist": "Tiësto; Moska",
+            "length": 131,
+            "isDuplicated": false
+        },
+        {
+            "title": "Chicken Soup",
+            "artist": "Skrillex; Habstrakt",
+            "length": 207,
+            "isDuplicated": false
+        },
+        {
+            "title": "London Girl (feat. Baby Sol)",
+            "artist": "Sander Kleinenberg; Baby Sol",
+            "length": 164,
+            "isDuplicated": false
+        },
+        {
+            "title": "Turn Me On",
+            "artist": "Riton; Oliver Heldens; Vula",
+            "length": 208,
+            "isDuplicated": false
+        },
+        {
+            "title": "Rinse & Repeat (Radio Edit)",
+            "artist": "Riton; Kah-lo",
+            "length": 151,
+            "isDuplicated": false
+        },
+        {
+            "title": "Body Funk (Dom Dolla Remix)",
+            "artist": "Purple Disco Machine; Dom Dolla",
+            "length": 269,
+            "isDuplicated": false
+        },
+        {
+            "title": "Turn Around (Hey What's Wrong With You) (Mousse T’s Dirty Little Funker Mix)",
+            "artist": "Phats & Small",
+            "length": 176,
+            "isDuplicated": false
+        },
+        {
+            "title": "Kiara",
+            "artist": "Orjan Nilsen",
+            "length": 165,
+            "isDuplicated": false
+        },
+        {
+            "title": "Gucci Fendi Prada",
+            "artist": "Merk & Kremont",
+            "length": 166,
+            "isDuplicated": false
+        },
+        {
+            "title": "Lose Control",
+            "artist": "Meduza; Becky Hill; GOODBOYS; Mattia Vitale; Simone Giani; Luca de Gregorio; Ryan Ashley; Joshua Grimmett",
+            "length": 168,
+            "isDuplicated": false
+        },
+        {
+            "title": "Everybodied",
+            "artist": "Holy Goof; Massappeals",
+            "length": 180,
+            "isDuplicated": false
+        },
+        {
+            "title": "Whistle Guilt",
+            "artist": "Fort Arkansas",
+            "length": 173,
+            "isDuplicated": false
+        },
+        {
+            "title": "Just Be Good To Me",
+            "artist": "Earth n Days",
+            "length": 326,
+            "isDuplicated": false
+        },
+        {
+            "title": "Let's Get Ill",
+            "artist": "DJ Snake; Mercer; Jermaine Dupri",
+            "length": 256,
+            "isDuplicated": false
+        },
+        {
+            "title": "Doea (Guaracha)",
+            "artist": "Dayvi",
+            "length": 260,
+            "isDuplicated": false
+        },
+        {
+            "title": "Feel That Way",
+            "artist": "BYOR",
+            "length": 199,
+            "isDuplicated": false
+        },
+        {
+            "title": "I Wanna Touch Your Soul (Original)",
+            "artist": "Benny Benassi; The Biz",
+            "length": 246,
+            "isDuplicated": false
+        },
+        {
+            "title": "Necessity (Original Mix)",
+            "artist": "Alex Preston; Even Evie; The Baroness",
+            "length": 201,
+            "isDuplicated": false
+        },
+        {
+            "title": "Falling (BROHUG Remix)",
+            "artist": "Alesso; Alessandro Lindblad; Kinda Ingrosso",
+            "length": 274,
+            "isDuplicated": false
+        },
+        {
+            "title": "Bonaparte",
+            "artist": "Aazar; Bellecour",
+            "length": 201,
+            "isDuplicated": false
+        }
+    ]
+}
